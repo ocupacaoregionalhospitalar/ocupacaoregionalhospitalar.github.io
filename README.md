@@ -13,9 +13,9 @@ Esta interface é composta por um fundo de degradê azul que transmite sensaçõ
 Começouse-se por elaborar a tabela de dados em Microsoft Excel para posteriormente ser representada no p5*js. 
 [Tabela de Dados](https://myipleiria-my.sharepoint.com/:x:/g/personal/3200745_my_ipleiria_pt/EZTWIq4904FJjrhskEKAnlABkGlDnHJlkFTerE1lwAf6bw?e=a0Wohu)
 
-Na primeira página ![Página 1.jpg](./Página 1.jpg), observamos um botão centrado e legendado que quando clicado somos automaticamente rederecionados para a página seguinte ![Página 2.jpg](./Página 2.jpg) onde temos uma breve descrição alusiva e informativa do que estão prestes a ver, carregando em "Analyze data" aparece nada mais, nada menos do que a tabela para se analizar a taxa de ocupação hospitalar em tempo de covid-19 por três regiões de Portugal ao longo dos anos. ![Página 3.jpg](./Página 3.jpg) O conceito da tabelha apresentada refere-se aos termometros, mas este desenvolvido de forma muito simplificada. ![Termometro.jpg](./Termometro.jpg)
+Na primeira página ![Página 1](./Página 1.jpg), observamos um botão centrado e legendado que quando clicado somos automaticamente rederecionados para a página seguinte ![Página 2](./Página 2.jpg) onde temos uma breve descrição alusiva e informativa do que estão prestes a ver, carregando em "Analyze data" aparece nada mais, nada menos do que a tabela para se analizar a taxa de ocupação hospitalar em tempo de covid-19 por três regiões de Portugal ao longo dos anos. ![Página 3](./Página 3.jpg) O conceito da tabelha apresentada refere-se aos termometros, mas este desenvolvido de forma muito simplificada. ![Termometro.jpg](./Termometro.jpg)
 
-De forma conclusiva ao projeto, podemos ainda clicar no botão que se segue à tabela, este dará acesso final ao texto conclusivo do estudo realizado. ![Página 4.jpg](./Página 4.jpg)
+De forma conclusiva ao projeto, podemos ainda clicar no botão que se segue à tabela, este dará acesso final ao texto conclusivo do estudo realizado. ![Página 4](./Página 4.jpg)
 
 Link para editor do projeto: [editor](https://editor.p5js.org/PedroNunes/sketches/w1RFvDw30)
 Link para visualização fullscreen do projeto: [projeto fullscreen](https://editor.p5js.org/PedroNunes/full/w1RFvDw30)
