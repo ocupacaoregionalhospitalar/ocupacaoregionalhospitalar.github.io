@@ -6,7 +6,7 @@ Após a formação do grupo de trabalho realizamos uma reunião para discussão 
 
 Como tema selecionamos a taxa de ocupação hospitalar por regiões (Norte, Centro e Sul) a nível nacional, tendo como principal foco retratar a forma como os dados em tempo de covid se comportaram. Através do website [Pordata](https://www.pordata.pt/portugal/taxa+de+ocupacao+nos+hospitais-3666) conseguimos selecionar o tema que queríamos abordar, contudo os dados para a concretização do projeto foram retirados apartir do website [SNS](https://transparencia.sns.gov.pt/explore/dataset/ocupacao-do-internamento/table/?flg=pt&disjunctive.regiao&disjunctive.instituicao&sort=tempo).
 
-De forma original e inovadora, decidimos representar estes dados numa interface de máquina de senha, tal como podemos observar e experênciar em alguns hospitais ![Máquina de senha.jpg](./Máquina de senha.jpg), algo que a comunidade já está familiarizada e de fácil compreensão para o utilizador. Para desenvolvimento do teste de vizualização utilizamos o Adobe Illustrator. 
+De forma original e inovadora, decidimos representar estes dados numa interface de máquina de senha, tal como podemos observar e experênciar em alguns hospitais ![Máquina de senha](./Máquina de senha.jpg), algo que a comunidade já está familiarizada e de fácil compreensão para o utilizador. Para desenvolvimento do teste de vizualização utilizamos o Adobe Illustrator. 
 
 Esta interface é composta por um fundo de degradê azul que transmite sensações de harmonia e tranquilidade. No cabeçalho podemos observar dois logótipos, um do serviço nacional de saúde e o "THO" Taxa de Ocupação Hospitalar ![THO.jpg](./THO.jpg), um logo representativo do nosso projeto, realizado por nós. 
 
