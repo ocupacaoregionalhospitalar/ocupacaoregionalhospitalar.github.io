@@ -1,4 +1,4 @@
-class DataElement 
+class DataElement  //Cria e da nome a uma class que será usada para a criação de objetos.
 {
   constructor 
   (
@@ -27,17 +27,14 @@ class DataElement
     this.cell_y = y+(h/2-this.cell_h/2);
    
     
-    
-    
-    
-    
-    
-    noFill();
+ 
+   /* noFill();
     stroke(0, 255, 0);
     rect (x+this.cell_w*0, y, this.cell_w, h);
     rect (x+this.cell_w*1, y, this.cell_w, h);
     rect (x+this.cell_w*2, y, this.cell_w, h);
     rect (x+this.cell_w*3, y, this.cell_w, h);
+    */
 
     
     
@@ -63,18 +60,14 @@ class DataElement
     
     fill(0);
     textSize (10);
-    text (this.ocupacao_percentagem_norte + "%", x+this.cell_w*1, this.cell_y-h/2.5, this.cell_w, h);
-    text (this.ocupacao_percentagem_centro + "%", x+this.cell_w*2, this.cell_y-h/2.5, this.cell_w, h);
-    text (this.ocupacao_percentagem_sul + "%", x+this.cell_w*3, this.cell_y-h/2.5, this.cell_w, h);
+    text (this.ocupacao_percentagem_norte + "%", x+this.cell_w*1, this.cell_y-h/2.7, this.cell_w, h);
+    text (this.ocupacao_percentagem_centro + "%", x+this.cell_w*2, this.cell_y-h/2.7, this.cell_w, h);
+    text (this.ocupacao_percentagem_sul + "%", x+this.cell_w*3, this.cell_y-h/2.7, this.cell_w, h);
     
     /*
-    console.log 
-    (
-      this.ano, 
-      this.ocupacao_percentagem_norte, 
-      this.ocupacao_percentagem_centro, 
-      this.ocupacao_percentagem_sul
-    );
+Esta pagina de código está a definir uma função construtor para um objeto que representa os dados de uma tabela. O construtor pega quatro parâmetros: ano, ocupacao_percentagem_norte, ocupacao_percentagem_centro e ocupacao_percentagem_sul, e os atribui às propriedades do objeto com os mesmos nomes.
+
+O construtor também define uma função chamada drawDataRow que usa quatro parâmetros: x, y, w e h, que usa para desenhar retângulos. Ele calcula a largura e a altura de cada célula da tabela usando o número de colunas e a largura e altura fornecidas. Em seguida, desenhe três retângulos com cores diferentes, a largura de cada retângulo é baseada no percentual de ocupação de cada região. Também desenha na tela um texto com o ano e o percentual de ocupação de cada região.
     */
   }
 }
